@@ -7,11 +7,19 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>
+        PÁGINA DE MARIANGEL MEDINA Y NATALIA GÓMEZ 10-3 
+
+
+    </h1>
+    
+
     <p>
-        PÁGINA DE MARIANGEL MEDINA Y NATALIA GÓMEZ 10-3  👻
 
-
+    La siguiente pagina es para uso de portafolio 👍
 
     </p>
+
+
 </body>
 </html>
